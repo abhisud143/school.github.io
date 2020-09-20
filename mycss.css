@@ -1,0 +1,7 @@
+
+.team:hover{
+	transform: translateZ(-9px);
+	transition: ease 0.9s ;
+	box-shadow: 5px 5px 5px 5px lightgrey;
+	padding: 5px;
+}
